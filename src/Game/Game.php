@@ -3,6 +3,10 @@ namespace MyApp\Game;
 
 class Game {
     public function __construct(){
-        echo "<br>create a Game";
+        echo "<br>Game object is created";
     }
+    public function a(){
+        echo 'a function';
+    }
+
 }
