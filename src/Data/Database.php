@@ -6,3 +6,4 @@ class Database {
         echo "<br>create a database";
     }
 }
+

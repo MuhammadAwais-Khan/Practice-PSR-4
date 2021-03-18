@@ -6,3 +6,4 @@ class GameController {
         echo "<br>create a Game controller";
     }
 }
+echo "string";
