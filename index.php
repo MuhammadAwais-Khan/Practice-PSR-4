@@ -11,5 +11,4 @@ $game= new Game();
 $gameController= new \MyApp\Game\GameController();
 $player = new Player();
 
-
-
+echo "string";
